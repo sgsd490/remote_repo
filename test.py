@@ -1,5 +1,5 @@
 #!/usr/bin/python
 print("hello");
 print("hello");
-print("12345");
+print("haha");
 
